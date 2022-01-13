@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "include-stacktrace",
+      "type": "java.lang.String",
+      "description": "Description for include-stacktrace."
+  }
+] }
